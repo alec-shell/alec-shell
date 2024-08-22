@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @alec-shell
-- 👀 I’m interested in cybersecurity and programming
-- 🌱 I’m currently learning Python and all things Linux!
-- I have my Google Cybersecurity certificate, and am studying
-  for my CompTIA Sec+
+- 👀 Interested in cybersecurity and programming
+- 🌱 Currently learning Python and Java
+- Google Cybersecurity certification
+- CompTIA Sec+
+- AAS in programming and software development (in progress)
 
 <!---
 alec-shell/alec-shell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
