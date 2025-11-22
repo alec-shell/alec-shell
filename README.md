@@ -1,5 +1,4 @@
-- 👀 Interested in cybersecurity and programming
-- 🌱 Currently learning Python and Javascript
+-  Interested in cybersecurity and programming
 -  Google Cybersecurity certified
 -  CompTIA Sec+ certified
 -  AAS in programming and software development (in progress)
